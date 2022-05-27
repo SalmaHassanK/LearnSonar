@@ -141,10 +141,6 @@ enum Cases {
 
 class OtherClass {
 	let viewController = ViewController()
-	
-//	var testAccess: String {
-////		viewController.testProperty = "dd"
-//	}
 }
 
 extension String {
