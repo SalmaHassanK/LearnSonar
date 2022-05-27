@@ -123,6 +123,19 @@ extension Int {
 	
 }
 
+enum CasesAgainAgain {
+	case one , two , three
+	
+	var name: String {
+		switch self {
+		case .one:
+			return ""
+			
+		default:
+			return "S"
+		}
+	}
+}
 
 enum CasesAgain {
 	case one , two , three
