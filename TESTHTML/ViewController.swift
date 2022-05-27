@@ -141,6 +141,8 @@ enum Cases {
 
 class OtherClass {
 	let viewController = ViewController()
+	
+	// test violation
 }
 
 extension String {
