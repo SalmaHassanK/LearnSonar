@@ -45,6 +45,7 @@ class ViewController: UIViewController {
 		thermometerStruct.registerTemperature(56.0)
 		print("salma")
 		
+		// test github actions
 		
 //		let queue = DispatchQueue(label: "serialQueueTest")
 //
